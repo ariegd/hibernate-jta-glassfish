@@ -37,3 +37,17 @@ jdbc:mysql://localhost:3306/db?allowPublicKeyRetrieval=true&useSSL=false
 
 5. Luego hacer las modificaciones pertinentes y crear el 'JDBC Resources' graficamente
 
+## Creando JDBC Connection Pool
+-------------------------------
+![jdbc-connection-pool(Derby)](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/0bfe85ee-581b-4d02-a2ef-469904738885)
+![jdbc-connection-pool(Derby)2](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/157b6b2b-99d9-4198-abf2-f7e5ad6e92b4)
+![jdbc-connection-pool(H2)](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/2026166f-1fc9-44ca-806d-53814334aa0d)
+![jdbc-connection-pool(H2)2](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/22d97868-ab87-4423-812c-f3031e99153e)
+![jdbc-connection-pool(HSQLDB)](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/7a768d66-f427-42b7-9514-a0d3b139354c)
+![jdbc-connection-pool(HSQLDB)2](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/3823edca-1663-4c32-8753-07e08d86ffcc)
+![jdbc-connection-pool(MySQL)](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/693403be-d1a1-4173-943a-0a3b05b63b63)
+![jdbc-connection-pool(MySQL)2](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/7dc8a23d-2c82-4091-a3d6-13c41fdeb418)
+![jdbc-connection-pool(OracleFree)](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/9f3ce312-6d6e-416e-8265-0d55ef37afaf)
+![jdbc-connection-pool(OracleFree)2](https://github.com/ariegd/hibernate-jta-glassfish/assets/24771696/6ebaf035-b0d7-431c-8244-a3964e772cdc)
+
+
